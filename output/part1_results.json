@@ -1,0 +1,374 @@
+{
+  "killer": "Larry",
+  "weapon": "Antler trophy",
+  "motive": "Dispute over the treasure map and old coins",
+  "evidence": [
+    "Marcus's last text at 10:28pm indicating a conflict over ownership.",
+    "Larry's damp hiking boots with fresh mud contradicting his alibi of staying indoors.",
+    "The unlocked back door suggesting someone left or entered without notice.",
+    "The inside-out rubber glove indicating a hasty cleanup after the crime.",
+    "The cigarette butt hidden by Marcus, suggesting he was trying to hide his habits from the group."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Did you go outside after 9 PM? If so, why?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Who did you talk to during the late-night conversation, and what did you discuss"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your grandfather? Did Marcus ever meet him?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Do you have any pictures from your camera showing someone leaving the house afte"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: No, I didn't go outside after 9 PM. I was just playing cards with Tom and then went straight to bed."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I had a conversation with Marcus in the kitchen. We discussed his decision to sell the cabin, which "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, my grandfather? He was a real character, you know? He ran this antique shop for years, filled wi"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on taking long-exposure photos of the snowfall, so I didn't really capture anyone leav"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Did you go outside after 9 PM? If so, why?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Who did you talk to during that late-night conversation, and what did you discus"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your grandfather? Did Marcus ever meet him?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Do you have any pictures of someone leaving the house after 9:30 or even 10:30?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What promises did Marcus make to the group?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What time did you meet with Larry to play cards, and when did Larry go to bed?"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: No, I didn't go outside after 9 PM. I was just playing cards with Tom and then went straight to bed."
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, my grandfather? He was a real character, you know? He ran this antique shop for years, filled wi"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Marcus promised that the cabin would always be our gathering place, a sanctuary for all of us to ret"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I spoke with Marcus, of course. We discussed his decision to sell the cabin, which I found quite inf"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the night sky, so I didn't really capture anyone leaving th"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Larry and I started playing cards around 8:00 PM. We were really engrossed in the game, and I didn't"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Did you go outside after 9 PM? If so, why?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Who did you talk to during your late-night conversation, and what did you discus"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your grandfather? Did Marcus ever meet him?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Do you have any pictures of someone leaving the house after 9:30 or even 10:30 P"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What promises did Marcus make to the group?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What time did you meet with Larry to play cards, and when did Larry go to bed?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Do you know anything about Larry's grandfather?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Larry's grandfather? Not particularly. I know he was a significant figure in Larry's life, but I can"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I had a conversation with Marcus in the kitchen. We discussed his decision to sell the cabin, which "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: No, I didn't go outside after 9 PM. I was just playing cards with Tom and then went straight to bed."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Marcus promised that the cabin would always be our gathering place, a sanctuary for all of us to ret"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the night sky, so I didn't really capture anyone leaving th"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, my grandfather? He was a real character, you know? He ran this antique shop for years, filled wi"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Larry and I started playing cards around 8:00 PM. We were engrossed in the game for quite a while, a"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Did you go outside after 9 PM? If so, why?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Who did you talk to during that late-night conversation, and what did you discus"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your grandfather? Did Marcus ever meet him?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Do you have any pictures from your camera showing someone leaving the house afte"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What promises did Marcus make to the group?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What time did you meet with Larry to play cards, and when did Larry go to bed?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Do you know anything about Larry's grandfather?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Can you check the time stamps on your camera for times after 9:15 and also after"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: Sure, I can do that. I was outside taking photos, so I have timestamps for the shots I took during t"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: No, I didn't go outside after 9 PM. I was just playing cards with Tom and then went straight to bed."
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, my grandfather? He was a real character, you know? He ran this antique shop for years, filled wi"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Larry's grandfather? Not particularly. I know he was a significant figure in Larry's life, but I can"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the night sky, so I didn't really capture anyone leaving th"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Larry and I started playing cards around 8:00 PM. We were really engrossed in the game, and I didn't"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I spoke with Marcus, of course. We discussed his decision to sell the cabin, which I found quite inf"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Marcus promised that the cabin would always be our gathering place, a sanctuary for all of us to ret"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Did you go outside after 9 PM? If so, why?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Who did you talk to during that late-night conversation, and what did you discus"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your grandfather? Did Marcus ever meet him?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Do you have any pictures from your camera showing someone leaving the house afte"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What promises did Marcus make to the group?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What time did you meet with Larry to play cards, and when did Larry go to bed?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Do you know anything about Larry's grandfather?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Can you check the time stamps on your camera for times after 9:15 and also after"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Larry's grandfather? Not particularly. I know he was a significant figure in Larry's life, but I can"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I spoke with Marcus, of course. We discussed his decision to sell the cabin, which I found quite inf"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: Sure, I can do that. I was outside taking photos, so I have timestamps for the shots I took during t"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the night sky, so I didn't capture anyone leaving the house"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: No, I didn't go outside after 9 PM. I was just playing cards with Tom, and then I went straight to b"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Larry and I started playing cards around 8:00 PM. We were engrossed in the game for quite a while, a"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, my grandfather? He was a real character, you know? He ran this antique shop for years, filled wi"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Marcus promised that the cabin would always be our gathering place, a sanctuary for all of us to ret"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Did you go outside after 9 PM? If so, why?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Who did you talk to during that late-night conversation, and what did you discus"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your grandfather? Did Marcus ever meet him?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Do you have any pictures from your camera showing someone leaving the house afte"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What promises did Marcus make to the group?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What time did you meet with Larry to play cards, and when did Larry go to bed?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Do you know anything about Larry's grandfather?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Can you check the time stamps on your camera for times after 9:15 and also after"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What can you tell me about your muddy boots?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Larry's grandfather? Not particularly. I know he was a significant figure in Larry's life, but I can"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: Sure, I can check the timestamps on my camera. I was out on the porch taking photos, so I should hav"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: No, I didn't go outside after 9 PM. I was just playing cards with Tom, and then I went straight to b"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the night sky, so I didn't really capture anyone leaving th"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Marcus promised that the cabin would always be our gathering place, a sanctuary for all of us to ret"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I spoke with Marcus, of course. We had a rather heated discussion about his plans to sell the cabin,"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, the muddy boots? Yeah, I, uh, I was out for a walk earlier in the day, you know, just trying to "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Larry and I started playing cards around 8:00 PM. We were engrossed in the game for quite a while, a"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, my grandfather? He was a real character, you know? He ran this antique shop for years, filled wi"
+    }
+  ]
+}
